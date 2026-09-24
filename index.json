@@ -1,0 +1,26 @@
+{
+  "category:modules": [
+    {
+      "id": "bitchord-qobuz",
+      "name": "BitChord Qobuz Lossless",
+      "author": "RavenCH612",
+      "version": "1.0.0",
+      "code": 100,
+      "type": "MODULE",
+      "description": "Single-purpose BitChord-compatible Qobuz lossless source.",
+      "tags": ["FLAC", "LOSSLESS", "QOBUZ"],
+      "download": "bitchord-qobuz.js",
+      "trusted": true,
+      "featured": true,
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Qobuz Lossless",
+          "lang": "all",
+          "id": "bitchord-qobuz",
+          "baseUrl": "."
+        }
+      ]
+    }
+  ]
+}
